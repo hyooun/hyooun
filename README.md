@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=승현" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=hyooun" />
 
 <div align=center>
 <h3 align="center">Solved.ac</h3>
